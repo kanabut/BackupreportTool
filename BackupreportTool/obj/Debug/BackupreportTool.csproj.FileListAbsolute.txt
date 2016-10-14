@@ -1,0 +1,22 @@
+D:\Project C#\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.exe.config
+D:\Project C#\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.exe
+D:\Project C#\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.pdb
+D:\Project C#\BackupreportTool\BackupreportTool\bin\Debug\MySql.Data.dll
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csproj.ResolveComReference.cache
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.Form1.resources
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.Properties.Resources.resources
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csproj.GenerateResource.Cache
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.exe
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.pdb
+D:\Project C#\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csprojResolveAssemblyReference.cache
+D:\Project\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.exe.config
+D:\Project\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.exe
+D:\Project\BackupreportTool\BackupreportTool\bin\Debug\BackupreportTool.pdb
+D:\Project\BackupreportTool\BackupreportTool\bin\Debug\MySql.Data.dll
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csproj.ResolveComReference.cache
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.Form1.resources
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.Properties.Resources.resources
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csproj.GenerateResource.Cache
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.exe
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.pdb
+D:\Project\BackupreportTool\BackupreportTool\obj\Debug\BackupreportTool.csprojResolveAssemblyReference.cache
